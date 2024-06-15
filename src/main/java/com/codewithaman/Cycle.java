@@ -1,5 +1,8 @@
 package com.codewithaman;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Cycle implements Vehicle {
 
     @Override
